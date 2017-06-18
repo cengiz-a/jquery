@@ -1,0 +1,19 @@
+.klasse1 {
+	background-color: grey;
+	width: 150px;
+	margin: auto;
+	padding: 10px;
+	color: white;
+	border-style: solid;
+	border-color: #11fcde;
+	text-align: center;
+}
+
+.selected {
+	color: red;
+}
+
+.highlight {
+	background-color: blue;
+	width: 150px;
+}
